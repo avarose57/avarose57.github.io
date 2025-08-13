@@ -36,9 +36,9 @@ a img{border:none;}
 .left{text-align:left;}
 .center{text-align:center;}
 .right{text-align:right;}
-.box-no-border,.box-no-border .inner,.box-no-border b{background-image:url("https://avarose57.github.io/assets/box-no-border.png);_background-image:none;}
-.box-border,.box-border .inner,.box-border b{background-image:url("https://avarose57.github.io/assets/box-border.png);_background-image:none;}
-.box-overlay,.box-overlay .inner,.box-border b{background-image:url("https://avarose57.github.io/images/flux/overlay.png);_background-image:none;}
+.box-no-border,.box-no-border .inner,.box-no-border b{background-image:url(https://avarose57.github.io/assets/box-no-border.png);_background-image:none;}
+.box-border,.box-border .inner,.box-border b{background-image:url(https://avarose57.github.io/assets/box-border.png);_background-image:none;}
+.box-overlay,.box-overlay .inner,.box-border b{background-image:url(https://avarose57.github.io/images/flux/overlay.png);_background-image:none;}
 body.adFree .ad{display:none;}
 .ad{margin:0;}
 .pushdown{margin:6px 0;}
@@ -71,7 +71,7 @@ body.adFree .ad{display:none;}
 body{_text-align:center;background:#fff;}
 .body{*position:relative;*z-index:15;}
 .page{margin:0 auto;width:990px;text-align:left;}
-.background{background:transparent url("https://avarose57.github.io/assets/background/page.png) repeat 0 0;padding:0 10px;overflow:visible;}
+.background{background:transparent url(https://avarose57.github.io/assets/background/page.png) repeat 0 0;padding:0 10px;overflow:visible;}
 .main{overflow:hidden;_overflow:visible;_zoom:1;}
 .leftCol{float:left;width:200px;margin-right:7px;_margin-right:-3px;}
 .rightCol{float:right;width:310px;_margin-left:-3px;}
@@ -139,7 +139,7 @@ cite{display:block;text-align:left;padding-top:10px;font-size:14px;color:#81cfd8
 .footer .about h4{height:27px;font-size:18px;color:#4A2709;font-weight:bold;}
 .footer .about a{color:#2e2e2e;font-size:10px;font-weight:bold;border-bottom:1px dotted #2e2e2e;}
 .footer .about .page div{padding:0 0 25px 0;color:#2e2e2e;}
-.footer .nai-link{background:url("https://avarose57.github.io/images/icons/footer/nai-logo.png) no-repeat top right;padding:0 14px 0 0;}
+.footer .nai-link{background:url(https://avarose57.github.io/images/icons/footer/nai-logo.png) no-repeat top right;padding:0 14px 0 0;}
 .copyrightLogo{margin:10px auto;}
 .footer .legal{font-size:12px;}
 .footer .ftrCarousel{background:none #12c0d9;margin:0 auto;width:100%;}
@@ -157,10 +157,10 @@ footer{background:#fd0;}
 .filterDropdown li.active{background-position:-364px 0;}
 .filterDropdown li ul{z-index:150000;clear:left;position:absolute;width:179px;left:-999em;margin:0;padding:0;list-style:none;background:transparent url("https://avarose57.github.io/assets/dropdown/cap.png) no-repeat scroll bottom left;top:3px;height:78px;}
 * html .filterDropdown li ul{height:82px;}
-.filterDropdown li ul li{background:#FFF url("https://avarose57.github.io/assets/dropdown/unselected.jpg) no-repeat scroll -165px 2px;border-left:1px solid #D5D6C6;border-right:1px solid #D5D6C6;color:#55463b;font-size:11px;width:177px;height:24px;}
+.filterDropdown li ul li{background:#FFF url(https://avarose57.github.io/assets/dropdown/unselected.jpg) no-repeat scroll -165px 2px;border-left:1px solid #D5D6C6;border-right:1px solid #D5D6C6;color:#55463b;font-size:11px;width:177px;height:24px;}
 .filterDropdown li ul li span{display:block;width:177px;padding:6px 0;background:transparent;}
 .filterDropdown li:hover ul,.filterDropdown li.over ul{right:0;left:0;}
-.filterDropdown li ul li a,.filterDropdown li ul li a,.filterDropdown li ul li a{display:block;background:#FFF url("https://avarose57.github.io/assets/dropdown/unselected.jpg) no-repeat -165px 2px;height:auto;padding:6px 0 6px;border:none;font-weight:normal;text-align:left;color:#534840;text-indent:21px;text-decoration:none;}
+.filterDropdown li ul li a,.filterDropdown li ul li a,.filterDropdown li ul li a{display:block;background:#FFF url(https://avarose57.github.io/assets/dropdown/unselected.jpg) no-repeat -165px 2px;height:auto;padding:6px 0 6px;border:none;font-weight:normal;text-align:left;color:#534840;text-indent:21px;text-decoration:none;}
 .filterDropdown li ul li a{width:177px;}
 .filterDropdown li ul li a:hover,.filterDropdown li ul li a.over{color:#FFF;background-position:7px 2px;text-decoration:none;}
 * html .filterDropdown{height:1%;}
@@ -170,14 +170,14 @@ footer{background:#fd0;}
 .filterDropdown.large li a,.filterDropdown.large li.filterTop{width:239px;}
 .filterDropdown.large li.filterTop:hover,.filterDropdown.large li.over{background-position:-242px 0;}
 .filterDropdown.large li.active{background-position:-484px 0;}
-.filterDropdown.large li ul{width:239px;background:transparent url("https://avarose57.github.io/assets/dropdown/large/cap.png) no-repeat scroll bottom left;}
+.filterDropdown.large li ul{width:239px;background:transparent url(https://avarose57.github.io/assets/dropdown/large/cap.png) no-repeat scroll bottom left;}
 * html .filterDropdown.large li ul{height:82px;}
-.filterDropdown.large li ul li{background:#FFF url("https://avarose57.github.io/assets/dropdown/large/unselected.jpg) no-repeat scroll -225px 2px;width:237px;}
+.filterDropdown.large li ul li{background:#FFF url(https://avarose57.github.io/assets/dropdown/large/unselected.jpg) no-repeat scroll -225px 2px;width:237px;}
 .filterDropdown.large li ul li span{width:237px;}
-.filterDropdown.large li ul li a,.filterDropdown.large li ul li a,.filterDropdown.large li ul li a{background:#FFF url("https://avarose57.github.io/assets/dropdown/large/unselected.jpg) no-repeat -235px 2px;}
+.filterDropdown.large li ul li a,.filterDropdown.large li ul li a,.filterDropdown.large li ul li a{background:#FFF url(https://avarose57.github.io/assets/dropdown/large/unselected.jpg) no-repeat -235px 2px;}
 .filterDropdown.large li ul li a{width:237px;}
 .filterDropdown.large li ul li a:hover,.filterDropdown.large li ul li a.over{background-position:3px 2px;}
-.filterDropdown.large li ul li .selectedSort,.filterDropdown.large li ul li .selectedSort.over{background:#FFF url("https://avarose57.github.io/assets/dropdown/large/selected.jpg) no-repeat -230px 2px;}
+.filterDropdown.large li ul li .selectedSort,.filterDropdown.large li ul li .selectedSort.over{background:#FFF url(https://avarose57.github.io/assets/dropdown/large/selected.jpg) no-repeat -230px 2px;}
 .filterDropdown li ul li.blank,.filterDropdown.large li ul li.blank{background:#FFF none;height:5px;}
 .breadcrumb{display:block;font-size:10px;list-style:none;text-transform:lowercase;}
 .breadcrumb{margin:0 auto;padding:5px 0 10px;width:990px;}
@@ -199,14 +199,14 @@ body .header{background:none;}
 #fluxlogin .usernameLink{border-bottom:1px dotted #28C5D7;}
 #fluxlogin .profileLinks{margin-top:8px;}
 #signinUser,#userProfile,#interimUser,#logoutUser{text-transform:uppercase;color:#2e2e2e;margin-left:7px;font-size:11px;border-bottom:1px dotted #80492E;}
-#fluxlogin .signupMenuIcon{display:block;float:right;width:88px;height:35px;background:transparent url("https://avarose57.github.io/images/flux/signup-btn.png) no-repeat 0 -34px;}
+#fluxlogin .signupMenuIcon{display:block;float:right;width:88px;height:35px;background:transparent url(https://avarose57.github.io/images/flux/signup-btn.png) no-repeat 0 -34px;}
 #fluxlogin .signupMenuIcon:hover{background-position:0 0;}
 .primary .menu a{padding-left:10px;margin-right:0!important;letter-spacing:-1px;}
 .primary .menu .first{margin-left:0!important;}
 .ui-widget-overlay{position:absolute;top:0;left:0;background:#000;opacity:.5;filter:alpha(opacity = 50);}
 .add-child-dialog{width:600px;}
 .ui-dialog-titlebar-close{display:block;position:absolute;top:35px;right:20px;color:#000;font-weight:bold;font-size:14px;z-index:99999999;*width:23px;*height:23px;}
-.box-overlay,.box-overlay .inner,.box-overlay b{background-image:url("https://avarose57.github.io/images/flux/overlay.png);_background-image:none;}
+.box-overlay,.box-overlay .inner,.box-overlay b{background-image:url(https://avarose57.github.io/images/flux/overlay.png);_background-image:none;}
 #nickjrOverlay .box-overlay .inner,#addChild .box-overlay .inner{right:-20px;bottom:-20px;padding-bottom:20px;}
 #nickjrOverlay .box-overlay .tr,#addChild .box-overlay .tr{right:-20px;}
 #nickjrOverlay .box-overlay .tl,#nickjrOverlay .box-overlay .tr,#nickjrOverlay .box-overlay .bl,#nickjrOverlay .box-overlay .br,#addChild .box-overlay .tl,#addChild .box-overlay .tr,#addChild .box-overlay .bl,#addChild .box-overlay .br{width:20px;height:20px;}
@@ -217,17 +217,17 @@ body .header{background:none;}
 #nickjrOverlay .box-overlay .inner select,#nickjrOverlay .box-overlay .inner .saveBtn,#addChild .box-overlay .inner select,#addChild .box-overlay .inner .saveBtn{padding:3px 4px;}
 #nickjrOverlay .box-overlay .inner .saveBtn,#addChild .box-overlay .inner .saveBtn{background:auto;}
 #nickjrOverlay .box-overlay .inner .kidsPrivateArea,#addChild .box-overlay .inner .kidsPrivateArea{margin:10px 0;}
-.ui-dialog-titlebar-close .close-btn{background:transparent url("https://avarose57.github.io/assets/overlay/close-btn.jpg') no-repeat;display:block;width:23px;height:22px;z-index:99999999;}
+.ui-dialog-titlebar-close .close-btn{background:transparent url(https://avarose57.github.io/assets/overlay/close-btn.jpg') no-repeat;display:block;width:23px;height:22px;z-index:99999999;}
 .fluxWidget .authentication .closeButton{left:655px!important;top:8px!important;z-index:300;}
 #share-article-bar{margin-left:560px;margin-top:0;*left:0;}
-#share-article-link{width:60px;background-image:url("https://avarose57.github.io/assets/share/article/share-article-button.png");}
-#share-article-container{background-image:url("https://avarose57.github.io/assets/share/article/share-article.png");width:268px;height:148px;margin-left:-194px;margin-top:-47px;}
+#share-article-link{width:60px;background-image:url(https://avarose57.github.io/assets/share/article/share-article-button.png");}
+#share-article-container{background-image:url(https://avarose57.github.io/assets/share/article/share-article.png");width:268px;height:148px;margin-left:-194px;margin-top:-47px;}
 #share-finder-bar{margin-left:66px;margin-top:-43px;}
-#share-finder-link{background-image:url("https://avarose57.github.io/assets/share/finder/share-finder-button.png");}
-#share-finder-container{background-image:url("https://avarose57.github.io/assets/share/finder/share-finder.png");width:244px;height:122px;margin-left:0;margin-top:-122px;}
+#share-finder-link{background-image:url(https://avarose57.github.io/assets/share/finder/share-finder-button.png");}
+#share-finder-container{background-image:url(https://avarose57.github.io/assets/share/finder/share-finder.png");width:244px;height:122px;margin-left:0;margin-top:-122px;}
 #share-quiz-bar{margin-top:-16px;float:left;position:relative;cursor:pointer;}
-#share-quiz-link{width:60px;background-image:url("https://avarose57.github.io/images/shows/dora/beyond-the-backpack/kindergarten-quiz/share-quiz-button.png");}
-#share-quiz-container{background-image:url("https://avarose57.github.io/images/shows/dora/beyond-the-backpack/kindergarten-quiz/share-quiz.png");width:268px;height:148px;margin-left:-194px;margin-top:-47px;}
+#share-quiz-link{width:60px;background-image:url(https://avarose57.github.io/images/shows/dora/beyond-the-backpack/kindergarten-quiz/share-quiz-button.png");}
+#share-quiz-container{background-image:url(https://avarose57.github.io/images/shows/dora/beyond-the-backpack/kindergarten-quiz/share-quiz.png");width:268px;height:148px;margin-left:-194px;margin-top:-47px;}
 #share-finder-container .share-container-right-col{float:left;margin-top:6px;margin-left:14px;}
 #share-finder-container .share-container-left-col{float:left;margin-top:6px;margin-left:10px;}
 body .fluxWidget .share-icon{width:100px;height:20px;margin-bottom:7px;cursor:pointer;}
@@ -246,7 +246,7 @@ html div.brand-mamabar{z-index:99999999;}
 .wideAlternate #navigationEdges,.wideAlternate #bgCenter,.wideAlternate #bgBottom{*position:relative;*z-index:99;}
 * html .wideAlternate #navigationEdges,* html .wideAlternate .wrapper{background:transparent;}
 .wideAlternate .primary .menu{width:1031px;}
-.menu .more{background:transparent url("https://avarose57.github.io/assets/header/more-btn.png) no-repeat 85px 3px;_background:none;padding:2px 22px 2px 5px;position:relative;z-index:99999999;}
+.menu .more{background:transparent url(https://avarose57.github.io/assets/header/more-btn.png) no-repeat 85px 3px;_background:none;padding:2px 22px 2px 5px;position:relative;z-index:99999999;}
 .menu .more:hover,.menu .hover .more{background-position:85px -23px;color:#FFF;}
 .secondary .menu .more:hover{color:#FFF;}
 .menu{position:relative;margin:0;padding:0;}
@@ -265,7 +265,7 @@ html div.brand-mamabar{z-index:99999999;}
 .primary .menu .standard{width:auto;}
 .primary .menu .dropdown .second .carrot{margin:-13px 0 0;*margin:-17px 0 0;_margin:-13px 0 0;background:transparent url('https://avarose57.github.io/assets/header/navigation/submenu-carrot.png) no-repeat 25px 0;_background:none;height:13px;_font-size:11px;}
 .primary .menu .dropdown .second a{background-image:none;}
-.menu .dropdown .second .submenu a{background:transparent url("https://avarose57.github.io/assets/header/navigation/sub-arrow-white.png) no-repeat 185px center;_background:none;}
+.menu .dropdown .second .submenu a{background:transparent url(https://avarose57.github.io/assets/header/navigation/sub-arrow-white.png) no-repeat 185px center;_background:none;}
 .menu .dropdown .third .submenu a{background-image:none;}
 .menu .dropdown .second a .sponsor{display:block;font-size:10px;text-transform:none;}
 .primary .menu .dropdown ul a,.primary .menu .first ul a,.menu .dropdown ul a{margin:0;width:186px;padding:8px 0 8px 15px;font-size:13px;color:#FFF;border:2px solid #36b9c5;}
@@ -418,4 +418,5 @@ playback timings (ms):
   load_resource: 176.054
 
 */
+
 
