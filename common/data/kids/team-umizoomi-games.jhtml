@@ -1,0 +1,187 @@
+{
+"config":{
+"music":{
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/music/silent-loop.swf",
+"volume":"0.3",
+"fadeAfter":"30"
+},
+"animation":{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"urlAlias":"kids-team-umizoomi",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/umizoomi-show-landing.swf",
+"classId":"GameListAnimation"
+},
+"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promos":[
+
+{
+"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"classId":"ShowGamesListPromo",
+"localConnectionId":"ShowGameListPromo",
+"urlAlias":"kids-team-umizoomi",
+"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/listing/showGames.swf",
+
+"position":{"x":"316","y":"0"},
+
+"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/team-umizoomi/",
+"items":[
+
+{
+"urlAlias":"hide-and-seek-with-milli",	
+"featured":"",	
+"title":"Milli's Hide &amp; Seek Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_milli_mini/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_milli_mini/GamesFinder/umiz-milli-hideseek-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/hide-and-seek-with-milli.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"super-shape-building-with-geo",	
+"featured":"",	
+"title":"Geo's Shape-Building Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_geo_mini/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_geo_mini/GamesFinder/umiz-geo-super-shape-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/super-shape-building-with-geo.html", 
+"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"numViews":"34634"
+}
+
+,
+
+{
+"urlAlias":"bots-silly-fix-it-game",	
+"featured":"",	
+"title":"Bot's Silly Fix-It Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_bot_mini/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_bot_mini/GamesFinder/umiz-bot-silly-fix-it-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/bots-silly-fix-it-game.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"umi-city-mighty-math-missions",	
+"featured":"false",	
+"title":"Umi City: Mighty Missions Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_city/GamesFinder/umiz-city-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-city-mighty-math-missions.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"umi-grand-prix",	
+"featured":"",	
+"title":"Umi Grand Prix", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_grand_prix/GamesFinder/umiz-bot-silly-fix-it-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-grand-prix.html", 
+"datePosted":"Thu May 22 00:00:00 EDT 2008", 
+"numViews":"37298"
+}
+
+,
+
+{
+"urlAlias":"kite-building-adventure",	
+"featured":"false",	
+"title":"Geo's Kite Building Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_kitebuilder/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_kitebuilder/GamesFinder/umiz-kitebuilder-01.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/kite-building-adventure.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"purple-monkey-rescue",	
+"featured":"false",	
+"title":"Purple Monkey Rescue Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_purple_monkey/GamesFinder/umiz_purple_monkey_02.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/purple-monkey-rescue.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"umi-shape-bandit-game",	
+"featured":"false",	
+"title":"Umizoomi Shape Bandit Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_bandit/GamesFinder/",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-shape-bandit-game.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"umicar-shape-mountain-race",	
+"featured":"false",	
+"title":"UmiCar's Shape Race Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_mountain_race/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_shape_mountain_rac/GamesFinder/",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umicar-shape-mountain-race.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"umi-shark-car-ferry-race",	
+"featured":"false",	
+"title":"Shark Car Race Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_sharkcar_ferryrace/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_sharkcar_ferryrace/GamesFinder/",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-shark-car-ferry-race.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"umi-cops",	
+"featured":"false",	
+"title":"The Stinky Dozen", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/thumbnail.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umicops/GamesFinder/",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-cops.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+,
+
+{
+"urlAlias":"umi-games-mighty-bike-race",	
+"featured":"false",	
+"title":"Umi Mighty Bike Race Game", 
+"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umigames_bikerace/umiz_umigames_bikerace.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/umiz_umigames_bikerace/umiz_umigames_bikerace.jpg",
+"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/umi-games-mighty-bike-race.html", 
+"datePosted":"Wed May 22 00:00:00 EDT 2013", 
+"numViews":"528715"
+}
+
+]
+}
+]
+}
+}
