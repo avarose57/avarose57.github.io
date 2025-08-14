@@ -1,226 +1,226 @@
 { "config":{
-"headnavSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/nav/kidsheadnavsounds.swf",
+"headnavSounds":"https://avarose57.github.io/dynaboss/flash/kids/nav/kidsheadnavsounds.swf",
 "headnav":{
-"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"300","y":"30"}},
+"loader":{"path":"https://avarose57.github.io/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"300","y":"30"}},
 "adFree":"false",
 
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/nav/kidsheadnav_adfree.swf",
+"path":"https://avarose57.github.io/dynaboss/flash/kids/nav/kidsheadnav_adfree.swf",
 
 "heads": [
 
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/dora-and-friends-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/dora-and-friends/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/dora-and-friends-head.swf",
+"link":"https://avarose57.github.io/kids/dora-and-friends/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/marshall-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/paw-patrol/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/marshall-head.swf",
+"link":"https://avarose57.github.io/kids/paw-patrol/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/molly-head-2.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/bubble-guppies/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/molly-head-2.swf",
+"link":"https://avarose57.github.io/kids/bubble-guppies/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/wallykazam-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/wallykazam/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/wallykazam-head.swf",
+"link":"https://avarose57.github.io/kids/wallykazam/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/umicops-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/team-umizoomi/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/umicops-head.swf",
+"link":"https://avarose57.github.io/kids/team-umizoomi/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/miaandme-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/mia-and-me/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/miaandme-head.swf",
+"link":"https://avarose57.github.io/kids/mia-and-me/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/spot-splatter-splash-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/lalaloopsy/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/spot-splatter-splash-head.swf",
+"link":"https://avarose57.github.io/kids/lalaloopsy/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/dora-2013-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/dora-the-explorer/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/dora-2013-head.swf",
+"link":"https://avarose57.github.io/kids/dora-the-explorer/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/movie-marathon-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/movie-marathon/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/movie-marathon-head.swf",
+"link":"https://avarose57.github.io/kids/movie-marathon/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/summer-kids-2014-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/summer/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/summer-kids-2014-head.swf",
+"link":"https://avarose57.github.io/kids/summer/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/peterBTN.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/peter-rabbit/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/peterBTN.swf",
+"link":"https://avarose57.github.io/kids/peter-rabbit/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/zack-and-quack-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/zack-and-quack/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/zack-and-quack-head.swf",
+"link":"https://avarose57.github.io/kids/zack-and-quack/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/kiki-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/the-fresh-beat-band/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/kiki-head.swf",
+"link":"https://avarose57.github.io/kids/the-fresh-beat-band/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/nickelodeon-music-videos-BTN.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/music/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/nickelodeon-music-videos-BTN.swf",
+"link":"https://avarose57.github.io/kids/music/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/julius-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/julius-jr/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/julius-head.swf",
+"link":"https://avarose57.github.io/kids/julius-jr/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/ruby-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/max-and-ruby/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/ruby-head.swf",
+"link":"https://avarose57.github.io/kids/max-and-ruby/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/dan-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/dino-dan/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/dan-head.swf",
+"link":"https://avarose57.github.io/kids/dino-dan/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/blue-head-02.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/blues-clues/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/blue-head-02.swf",
+"link":"https://avarose57.github.io/kids/blues-clues/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/pocoyo-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/pocoyo/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/pocoyo-head.swf",
+"link":"https://avarose57.github.io/kids/pocoyo/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/diego-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/go-diego-go/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/diego-head.swf",
+"link":"https://avarose57.github.io/kids/go-diego-go/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/brobee-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/yo-gabba-gabba/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/brobee-head.swf",
+"link":"https://avarose57.github.io/kids/yo-gabba-gabba/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/mikeBTN.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/mike-the-knight/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/mikeBTN.swf",
+"link":"https://avarose57.github.io/kids/mike-the-knight/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/franklincgi-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/franklin/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/franklincgi-head.swf",
+"link":"https://avarose57.github.io/kids/franklin/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/kailan-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/ni-hao-kai-lan/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/kailan-head.swf",
+"link":"https://avarose57.github.io/kids/ni-hao-kai-lan/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/pablo-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/the-backyardigans/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/pablo-head.swf",
+"link":"https://avarose57.github.io/kids/the-backyardigans/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/wonderpets-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/the-wonder-pets/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/wonderpets-head.swf",
+"link":"https://avarose57.github.io/kids/the-wonder-pets/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/olivia-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/olivia/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/olivia-head.swf",
+"link":"https://avarose57.github.io/kids/olivia/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/jacks-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/jacks-big-music-show/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/jacks-head.swf",
+"link":"https://avarose57.github.io/kids/jacks-big-music-show/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/littlebear-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/little-bear/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/littlebear-head.swf",
+"link":"https://avarose57.github.io/kids/little-bear/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/bill-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/little-bill/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/bill-head.swf",
+"link":"https://avarose57.github.io/kids/little-bill/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/missspider-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/miss-spider-sunny-patch-friends/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/missspider-head.swf",
+"link":"https://avarose57.github.io/kids/miss-spider-sunny-patch-friends/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/oobi-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/oobi/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/oobi-head.swf",
+"link":"https://avarose57.github.io/kids/oobi/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/oswald-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/oswald/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/oswald-head.swf",
+"link":"https://avarose57.github.io/kids/oswald/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/spinner-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/spinner-space-kid/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/spinner-head.swf",
+"link":"https://avarose57.github.io/kids/spinner-space-kid/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/catchall-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/nick-jr-assorted/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/catchall-head.swf",
+"link":"https://avarose57.github.io/kids-games/nick-jr-assorted/"
 }
 
 ,
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/heads/tallulah-head.swf",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/tickety-toc/"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/heads/tallulah-head.swf",
+"link":"https://avarose57.github.io/kids/tickety-toc/"
 }
 ]
 }
