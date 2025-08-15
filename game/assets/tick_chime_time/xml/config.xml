@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+	<numLevel>1</numLevel>									<!-- Start game level: 1 2 3 -->
+	<fontSwfFile>FontDefault.swf</fontSwfFile>				<!-- SWF embedded Font -->
+	<fontName>Insaniburger</fontName>						<!-- Font Name Counter Gadget -->
+	<downloadFileUrl>html/print.html</downloadFileUrl>	<!-- download file url -->
+</config>

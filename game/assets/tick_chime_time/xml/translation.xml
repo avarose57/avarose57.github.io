@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+<!-- General intro -->
+	<string id="hallo_i_m_tommy" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Hello! I’m Tommy!]]></string> 
+	<string id="and_i_m_tallulah" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[And I’m Tallulah! Welcome to Tickety Town! It’s almost Chime Time!]]></string> 
+	<string id="that_s_when" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[That’s when we chime in the time! But we need to hurry to the Clockhouse so we get there in time!]]></string> 
+	<string id="and_we_need" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[And we need to collect Cogs along the way so McCoggins can fix the clock! Will you help us?]]></string> 
+	<string id="lets_go" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Let’s go!]]></string> 
+<!-- intro level 1 -->	
+	<string id="i_really_can_t" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[I really can’t believe it! I can’t reach that huge carrot! I need more springs to help me jump even higher!]]></string> 
+	<string id="hey_hopparoo" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Hey Hopparoo! Do you need some help to reach that carrot?]]></string> 
+	<string id="we_can_find" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[We can find some springs for you!]]></string> 
+	<string id="badoing_that" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Badoing!  That would be great! To reach that carrot, I need to find 2 green springs, 3 yellow springs and 4 blue springs.]]></string> 
+	<string id="i_m_sure_we_can_find" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[I’m sure we can find them … and make it it back before Chime Time!]]></string> 
+	<string id="and_if_you_re_sure_tommy" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[And if you’re sure Tommy, then I’m sure!]]></string> 
+	<string id="and_i_m_sure" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[And I’m sure if you’re sure! Let’s go!]]></string> 	
+	<!-- Game controls & instructions -->
+	<string id="use_the_left" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Use the left and right arrows on your keyboard to make us run!]]></string>
+	<string id="to_go_back" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[To go back, press the left arrow key.]]></string> 
+	<string id="to_move_forward" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[To move forward, press the right arrow key.]]></string> 
+	<string id="to_jump_press_the_spacebar" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[To jump, press the Space Bar.]]></string> 
+	<string id="when_you_see" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[When you see the things we need, help us run over to them to collect them.]]></string> 
+	<string id="and_remember" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[And remember, if you see Cogs along the way, collect them.. McCoggins needs them to fix the clock for Chime Time!]]></string> 
+	<string id="and_keep_your_eyes" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[And keep your eye out for stars too – they’ll make us run faster.]]></string> 
+	<string id="are_you_ready" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Are you ready?]]></string> 
+	<string id="lets_go_02" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Let’s go!]]></string> 
+	<!-- Scene 01 -->	
+	<string id="remember" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Remember, to help Hopperoo reach his carrot, we need to collect 2 green springs, 3 yellow springs and 4 blue springs.]]></string> 
+	<string id="oh_and_watch_out" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Oh, and watch out for the Spring Chicks! If we bump into them, we’ll drop what we collected! We need to jump over the Spring Chicks! Easy peasy... Lemon squeezy!]]></string> 
+<!-- intro level 2 -->	
+	<string id="badoing_i_made_it" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Badoing! I made it! Thanks for your help finding the springs! Hooray! You can’t stop the hop!]]></string> 
+	<string id="tommy_tallulah" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Tommy! Tallulah! Moo-hoo!]]></string> 
+	<string id="did_you_hear" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Did you hear that, Tommy?]]></string> 
+	<string id="we_re_coming" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[We’re coming Madame Au Lait!]]></string> 
+	<string id="hallo_madame" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Hello Madame Au Lait!]]></string> 
+	<string id="hallo_my_little" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Hello, my little Tick Tocketeers! I need your help! I need to bake my special Oaty Cake before Chime Time, but I can’t find the ingredients! I need one jar of honey, two bottles of milk, three packs of oats and four bunches of berries!]]></string> 
+	<string id="don_t_worry" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Don’t worry Madame Au Lait! We’ll find them! Easy peasy…]]></string> 
+	<string id="tic_toc_cheesy" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Tick toc cheesy!]]></string> 
+	<string id="let_s_go_03" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Let’s go!]]></string> 
+<!-- intro level 3 -->	
+	<string id="moo_ray" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Mooo-ray! My special Oaty Cake is ready! Thank you my little chime-timers! I couldn’t have made it without you!]]></string> 
+	<string id="you_re_welcome" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[You’re welcome Madame Au Lait!]]></string> 
+	<string id="you_can_have_a_slice" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[You can have a slice if you like!]]></string> 
+	<string id="thanks_madame_ol" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Thanks, Madame Au Lait! Right after Chime Time...]]></string> 
+	<string id="what_a_tickety" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[What a tickety pickle!]]></string> 
+	<string id="it_sounds_like_we_better" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[It sounds like we better hurry so we can help McCoggins fix that clock!]]></string> 
+	<string id="bye_madame" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Let’s go! Bye, Madame Au Lait! ]]></string> 
+	
+	<string id="hallo_mc_coggins" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Hello McCoggins!]]></string> 
+	<string id="we_found_the_cogs" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[We found the cogs, so you can fix the clock for Chime Time!]]></string> 
+	<string id="but_i_ve_lost_all_the_tools" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[But … but … but I’ve lost all the tools from my toolbox. I need them to fix the clock, or there’ll be no Chime Time!]]></string> 
+	<string id="tallulah_are_you" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Tallulah, are you thinking what I’m thinking?]]></string> 
+	<string id="uh_uh" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Uh-uh! McCoggins, we’ll find the missing tools for you!]]></string> 
+	<string id="oh_thank_you" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Oh thank you, thank you! I need to find 3 green hammers, 4 blue screwdrivers and 5 orange wrenches!]]></string> 
+	<string id="lets_find_the_tools_for_mc_coggins" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Let’s find the tools for McCoggins!]]></string> 
+<!-- congratulations -->
+	<string id="Tommy_Tallulah_thank_you" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Tommy, Tallulah, thank you for helping me find all my missing tools! And you collected a lot of cogs! Great! Now I can use the tools and the cogs you collected to fix the clock for Chime Time!]]></string> 
+	<string id="tickety_tastic" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Tickety-tastic!]]></string> 
+	<string id="now_the_clock_is_ready" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Now the clock is ready for Chime Time!]]></string> 
+	<string id="come_on_tallulah_it_s_almost" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Come on Tallulah! It’s almost Chime Time!]]></string> 
+	<string id="we_made_it_in_time" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[We made it in time for Chime Time!]]></string> 
+	<string id="thank_you_for_helping_us" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Thank you for helping us!]]></string> 
+	<string id="click_the_green_play_again_button" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Click the green play again button to play again!]]></string> 
+	<string id="click_the_blu_print_button" fontName="Insaniburger" fontSize="16" lineHeight="0"><![CDATA[Click the blue print button to print your own Tickety Toc activity page!]]></string> 
+</strings>

@@ -1,0 +1,59 @@
+html {
+	overflow-y: scroll;
+	-webkit-text-size-adjust:none;
+}
+
+html,body {
+	width: 100%;
+	height: 100%;	
+	margin:0px;
+	padding:0px;
+}
+
+img{
+	border-style:none;
+}
+
+div{
+	display:block;
+}
+
+
+body.print{
+	background-color: white;
+	background-image: none;
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	font-family: Arial, Helvetica, sans-serif;
+	color:#999;
+	font-size:12px;
+}
+
+div.nop p{
+	padding:0px 0px 10px 0px;
+	margin:0px;
+}
+
+p{
+	padding:0px 0px 10px 0px;
+	margin:0px;
+}
+
+#float_close{
+	clear:both;
+	height:0px;
+    overflow:hidden;
+}
+
+@media all {
+  .page-break  { display: none; }
+}
+
+@media print {
+  .page-break  { display: block; page-break-before: always; }
+}
+
+@page {
+    margin: 0;
+}
