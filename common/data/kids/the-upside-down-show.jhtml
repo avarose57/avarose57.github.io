@@ -8,7 +8,7 @@
 "animation":{
 "loader":{"path":"https://avarose57.github.io/dynaboss/flash/kids/loaders/general-loader.swf"},
 "urlAlias":"kids-the-upside-down-show",
-"path":"https://avarose57.github.io/dynaboss/flash/kids/main-content/theupsidedownshow-show-landing-modified1.swf",
+"path":"https://avarose57.github.io/dynaboss/flash/kids/main-content/theupsidedownshow-show-landing.swf",
 "classId":"LandingPageAnimation"
 },
 "images":[
@@ -86,4 +86,5 @@
 
 ]
 }
+
 }
