@@ -19,7 +19,7 @@ version="2.0">
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="39"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider1.xml">
+url="https://avarose57.github.io/dynamo/video/data/missspider1.xml">
 </media:content>
 <media:title>A Little Bug Music</media:title>
 <media:description><![CDATA[Steve, Blue and all their friends are very thankful this Thanksgiving.]]></media:description>
@@ -49,7 +49,7 @@ url="http://nickjr.com/assets/videoplayer/kids/videos/miss/115-bug/115-bug-thumb
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="181"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider2.xml">
+url="https://avarose57.github.io/dynamo/video/data/missspider2.xml">
 </media:content>
 <media:title>What Was Blue's Dream About?</media:title>
 <media:description><![CDATA[Do you remember your dreams? Steve and Blue do!]]></media:description>
@@ -81,7 +81,7 @@ src="http://a2.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr.
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="218"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider3.xml">
+url="https://avarose57.github.io/dynamo/video/data/missspider3.xml">
 <mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=ThePlanetsSong;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=ThePlanetsSong;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-ThePlanetsSong|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-ThePlanetsSong|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
 </media:content>
 <media:title>A Little Slow</media:title>
@@ -112,7 +112,7 @@ url="http://www.nickjr.com/assets/videoplayer/kids/videos/miss/105-slow/105-slow
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="61"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider4.xml">
+url="https://avarose57.github.io/dynamo/video/data/missspider4.xml">
 <mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=Swimming;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=Swimming;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-Swimming|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-Swimming|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
 </media:content>
 <media:title>Star Fell Song</media:title>
@@ -143,7 +143,7 @@ url="http://www.nickjr.com/assets/videoplayer/kids/videos/miss/6-star/6-star-thu
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="229"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider6.xml">
+url="https://avarose57.github.io/dynamo/video/data/missspider6.xml">
 <mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=SoccerPractice;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=SoccerPractice;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-SoccerPractice|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-SoccerPractice|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
 </media:content>
 <media:title>Moon Music</media:title>
@@ -176,7 +176,7 @@ src="http://a10.akadl.mtvnservices.com/5291/mtvnorigin/gsp.alias/mediabus/nickjr
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="200"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/missspider5.xml">
+url="https://avarose57.github.io/dynamo/video/data/missspider5.xml">
 <mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/blue/p/cv/kids/pac{pac}/BluesCluesVideos;hub=kids;franchise=blue;clip=TheSnackChart;mode=playlist;playlist=BluesCluesVideos;loc=default;mtype=video;pform=network;!category=blue;!category=playlist;!category=default;!category=TheSnackChart;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-blue|clip-TheSnackChart|mode-playlist|playlist-BluesCluesVideos|loc-default|mtype-video|pform-network|!category-blue|!category-playlist|!category-default|!category-TheSnackChart|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
 </media:content>
 <media:title>Night and Day</media:title>
