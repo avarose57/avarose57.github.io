@@ -8,8 +8,8 @@ version="2.0">
 <description>nickjr.com video mrss</description>
 <image>
 <title>nickjr.com</title>
-<link>"https://thetoonsofjosh.github.io/nickjr2012-2015/kids/</link>
-<url>"https://thetoonsofjosh.github.io/nickjr2012-2015/common/assets/navbar/nickjrLogo/nickjr_logo1.swf</url>
+<link>"https://avarose57.github.io/kids/</link>
+<url>"https://avarose57.github.io/common/assets/navbar/nickjrLogo/nickjr_logo1.swf</url>
 <height>200</height>
 <width>200</width>
 </image>
@@ -21,7 +21,7 @@ version="2.0">
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="194"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack1.xml">
+url="https://avarose57.github.io/dynamo/video/data/jack1.xml">
 <mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/jack/p/cv/kids/pac{pac}/JacksBigMusicShowVideos;hub=kids;franchise=jack;clip=NuttinButStringz;mode=playlist;playlist=JacksBigMusicShowVideos;loc=default;mtype=video;pform=network;!category=jack;!category=playlist;!category=default;!category=NuttinButStringz;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-jack|clip-NuttinButStringz|mode-playlist|playlist-JacksBigMusicShowVideos|loc-default|mtype-video|pform-network|!category-jack|!category-playlist|!category-default|!category-NuttinButStringz|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
 </media:content>
 <media:title>Nuttin But Stringz</media:title>
@@ -52,7 +52,7 @@ url="http://www.nickjr.com/assets/videoplayer/kids/videos/jack/203-stringz/203-s
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="195"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack2.xml">
+url="https://avarose57.github.io/dynamo/video/data/jack2.xml">
 <mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/jack/p/cv/kids/pac{pac}/JacksBigMusicShowVideos;hub=kids;franchise=jack;clip=KellyGreen;mode=playlist;playlist=JacksBigMusicShowVideos;loc=default;mtype=video;pform=network;!category=jack;!category=playlist;!category=default;!category=KellyGreen;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-jack|clip-KellyGreen|mode-playlist|playlist-JacksBigMusicShowVideos|loc-default|mtype-video|pform-network|!category-jack|!category-playlist|!category-default|!category-KellyGreen|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
 </media:content>
 <media:title>Kelly Green</media:title>
@@ -61,7 +61,7 @@ url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack2.xm
 <image width="" height=""/>
 <media:group>
 <media:content type="text/xml" isDefault="true" duration="113"
-url="https://thetoonsofjosh.github.io/nickjr2012-2015/dynamo/video/data/jack3.xml">
+url="https://avarose57.github.io/dynamo/video/data/jack3.xml">
 <mediaad:content url="http://ad.doubleclick.net/pfadx/nickjr.playtime.nol/jack/p/cv/kids/pac{pac}/JacksBigMusicShowVideos;hub=kids;franchise=jack;clip=TheBongoBird;mode=playlist;playlist=JacksBigMusicShowVideos;loc=default;mtype=video;pform=network;!category=jack;!category=playlist;!category=default;!category=TheBongoBird;psp=0;asc={asc};ssc={ssc};psc={psc};pac={pac};sac={sac};rsc={rsc};rac={rac};gac={gac};!category=previousMetadatafranchise;demo={demo};tile={tile};dcmt=text/xml;u=hub-kids|franchise-jack|clip-TheBongoBird|mode-playlist|playlist-JacksBigMusicShowVideos|loc-default|mtype-video|pform-network|!category-jack|!category-playlist|!category-default|!category-TheBongoBird|psp-0|asc-{asc}|ssc-{ssc}|psc-{psc}|pac-{pac}|sac-{sac}|rsc-{rsc}|rac-{rac}|gac-{gac}|!category-previousMetadatafranchise|demo-{demo}|tile-{tile}|dcmt-text/xml;sz=640x480;ord={ord}"/>
 </media:content>
 <media:title>The Bongo Bird</media:title>
