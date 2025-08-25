@@ -22,7 +22,7 @@
 
 "title":"Featured Nick Jr. Videos", 
 "thumbnail":"/dynaboss",
-"promoImage":"/dynaboss/assets/videoplayer/kids/playlist/promo/mike/mike-knight-203-evies-friend/mike-knight-203-evies-friend-kids-promo.jpg",
+"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/playlist/promo/umiz/team-umizoomi-summer-weekend-movie-mania/kids-promo.jpg",
 
 "link":"https://avarose57.github.io/kids-videos/featured-kids-videos-list.html", 
 "datePosted":"2010-02-16 14:07:55.0", 
@@ -54,7 +54,7 @@
 
 "title":"Bubble Guppies", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/bubb/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/bubble-guppies-videos.html", 
 "datePosted":"2010-11-24 09:50:33.0", 
@@ -70,7 +70,7 @@
 
 "title":"Peter Rabbit", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/peter/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/peter-rabbit-kids-videos.html", 
 "datePosted":"2012-11-14 11:28:58.0", 
@@ -86,7 +86,7 @@
 
 "title":"Team Umizoomi!", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/umiz/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/team-umizoomi-kids-videos.html", 
 "datePosted":"2010-01-27 17:16:30.0", 
@@ -97,15 +97,15 @@
 ,
 
 {
-"urlAlias":"paw-patrol-kids-videos",	
+"urlAlias":"fresh-beat-band-kids-videos",	
 "featured":"",	
 
-"title":"PAW Patrol", 
-"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/paw/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"title":"Fresh Beat Band", 
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/fresh/kids-promo.jpg",
+"promoImage":"/dynaboss",
 
-"link":"https://avarose57.github.io/kids-videos/paw-patrol-kids-videos.html", 
-"datePosted":"2013-08-11 17:16:30.0", 
+"link":"https://avarose57.github.io/kids-videos/fresh-beat-band-kids-videos.html", 
+"datePosted":"2009-09-21 17:16:30.0", 
 "numViews":"0"
 
 }
@@ -113,15 +113,15 @@
 ,
 
 {
-"urlAlias":"zack-and-quack-kids-videos",	
+"urlAlias":"wallykazam-kids-videos",	
 "featured":"",	
 
-"title":"Zack & Quack", 
-"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/zack/kids-promo.jpg",
+"title":"Wallykazam!", 
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/wall/kids-promo.jpg",
 "promoImage":"/dynaboss",
 
-"link":"https://avarose57.github.io/kids-videos/zack-and-quack-kids-videos.html", 
-"datePosted":"2014-04-01 17:16:30.0", 
+"link":"https://avarose57.github.io/kids-videos/wallykazam-kids-videos.html", 
+"datePosted":"2014-02-03 13:18:16.0", 
 "numViews":"0"
 
 }
@@ -136,8 +136,8 @@
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/juli/kids-promo.jpg",
 "promoImage":"/dynaboss",
 
-"link":"https://avarose57.github.io/kids-videos/julius-jr-kids-videos.html", 
-"datePosted":"2013-09-01 17:16:30.0", 
+"link":"https://avarose57.github.io/kids-videos/kids-julius-jr-videos.html", 
+"datePosted":"2013-09-02 17:16:30.0", 
 "numViews":"0"
 
 }
@@ -145,46 +145,31 @@
 ,
 
 {
-"urlAlias":"fresh-beat-band-kids-videos",	
+"urlAlias":"paw-patrol-kids-videos",	
 "featured":"",	
 
-"title":"Fresh Beat Band", 
-"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/fresh/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
-
-"link":"https://avarose57.github.io/kids-videos/fresh-beat-band-kids-videos.html", 
-"datePosted":"2009-09-21 13:18:16.0", 
-"numViews":"0"
-
-}
-
-,
-
-{
-"urlAlias":"wallykazan-kids-videos",	
-"featured":"",	
-
-"title":"Wallykazam!", 
-"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/wall/kids-promo.jpg",
+"title":"PAW Patrol", 
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/paw/kids-promo.jpg",
 "promoImage":"/dynaboss",
 
-"link":"/kids-videos/wallykazam-videos.html", 
-"datePosted":"2014-02-01 13:18:16.0", 
+"link":"https://avarose57.github.io/kids-videos/paw-patrol-kids-videos.html", 
+"datePosted":"2013-08-13 17:16:30.0", 
 "numViews":"0"
+
 }
 
 ,
 
 {
-"urlAlias":"lalaloopsy-kids-videos",	
+"urlAlias":"zack-&-quack-kids-videos",	
 "featured":"",	
 
-"title":"Lalaloopsy", 
-"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/lala/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"title":"Zack & Quack", 
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/zack/kids-promo.jpg",
+"promoImage":"/dynaboss",
 
-"link":"https://avarose57.github.io/kids-videos/lalaloopsy-kids-videos.html", 
-"datePosted":"2013-03-08 16:08:30.0", 
+"link":"https://avarose57.github.io/kids-videos/zack-and-quack-kids-videos.html", 
+"datePosted":"2014-04-05 17:16:30.0", 
 "numViews":"0"
 
 }
@@ -197,7 +182,7 @@
 
 "title":"Max and Ruby", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/maxr/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/max-and-ruby-kids-videos.html", 
 "datePosted":"2009-09-21 14:00:19.0", 
@@ -208,15 +193,15 @@
 ,
 
 {
-"urlAlias":"hop-into-summer-kids-videos",	
+"urlAlias":"lalaloopsy-kids-videos",	
 "featured":"",	
 
-"title":"Hop Into Summer", 
-"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/promo/promo/hop-into-summer/kids-promo.jpg",
+"title":"Lalaloopsy", 
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/lala/kids-promo.jpg",
 "promoImage":"/dynaboss",
 
-"link":"https://avarose57.github.io/kids-videos/hop-into-summer-kids-videos.html", 
-"datePosted":"2013-05-23 10:12:14.0", 
+"link":"https://avarose57.github.io/kids-videos/lalaloopsy-kids-videos.html", 
+"datePosted":"2013-03-08 16:08:30.0", 
 "numViews":"0"
 
 }
@@ -229,9 +214,9 @@
 
 "title":"Nickelodeon Music", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/promo/promo/nickelodeon-music/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
-"link":"/kids-videos/nickelodeon-music-videos.html", 
+"link":"https://avarose57.github.io/kids-videos/nickelodeon-music-videos.html", 
 "datePosted":"2012-10-02 13:12:57.0", 
 "numViews":"0"
 
@@ -261,7 +246,7 @@
 
 "title":"Mike the Knight", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/mike/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/mike-the-knight-kids-videos.html", 
 "datePosted":"2012-01-10 14:56:12.0", 
@@ -272,14 +257,14 @@
 ,
 
 {
-"urlAlias":"yo-gabba-gabba-kids-videos",	
+"urlAlias":"wow-wow-wubbzy-kids-videos",	
 "featured":"",	
 
-"title":"Yo Gabba Gabba!", 
-"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/yoga/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"title":"Wow! Wow! Wubbzy!", 
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/wubb/kids-promo.jpg",
+"promoImage":"/dynaboss",
 
-"link":"https://avarose57.github.io/kids-videos/yo-gabba-gabba-kids-videos.html", 
+"link":"https://avarose57.github.io/kids-videos/wow-wow-wubbzy-kids-videos.html", 
 "datePosted":"2009-09-21 16:35:00.0", 
 "numViews":"0"
 
@@ -293,26 +278,10 @@
 
 "title":"Go, Diego, Go!", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/dieg/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
-"link":"/kids-videos/go-diego-go-kids-videos.html", 
+"link":"https://avarose57.github.io/kids-videos/go-diego-go-kids-videos.html", 
 "datePosted":"2009-09-21 13:11:54.0", 
-"numViews":"0"
-
-}
-
-,
-
-{
-"urlAlias":"wow-wow-wubbzy-kids-videos",	
-"featured":"",	
-
-"title":"Wow! Wow! Wubbzy!", 
-"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/wubb/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
-
-"link":"https://avarose57.github.io/kids-videos/wow-wow-wubbzy-kids-videos.html", 
-"datePosted":"2009-09-18 14:13:26.0", 
 "numViews":"0"
 
 }
@@ -325,10 +294,26 @@
 
 "title":"Bedtime Business", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/promo/promo/bedtime-business/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/bedtime-kids-videos.html", 
 "datePosted":"2012-09-28 14:44:03.0", 
+"numViews":"0"
+
+}
+
+,
+
+{
+"urlAlias":"yo-gabba-gabba-kids-videos",	
+"featured":"",	
+
+"title":"Yo Gabba Gabba!", 
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/yoga/kids-promo.jpg",
+"promoImage":"/dynaboss",
+
+"link":"https://avarose57.github.io/kids-videos/yo-gabba-gabba-kids-videos.html", 
+"datePosted":"2009-09-21 14:44:03.0", 
 "numViews":"0"
 
 }
@@ -341,7 +326,7 @@
 
 "title":"Dino Dan", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/dino/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/dino-dan-kids-videos.html", 
 "datePosted":"2010-10-19 14:54:41.0", 
@@ -357,7 +342,7 @@
 
 "title":"Pocoyo", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/poco/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/pocoyo-kids-videos.html", 
 "datePosted":"2012-10-26 15:07:10.0", 
@@ -373,7 +358,7 @@
 
 "title":"Dora's Explorer Girls", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/explorer_girls/exlporer-girls-kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/doras-explorer-girls-videos.html", 
 "datePosted":"2011-07-08 11:01:55.0", 
@@ -389,7 +374,7 @@
 
 "title":"Ni Hao, Kai-lan", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/kail/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/nihao-kailan-kids-videos.html", 
 "datePosted":"2009-09-21 17:42:34.0", 
@@ -405,7 +390,7 @@
 
 "title":"The Backyardigans", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/back/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/backyardigans-kids-videos.html", 
 "datePosted":"2009-09-21 13:50:51.0", 
@@ -421,7 +406,7 @@
 
 "title":"Peppa Pig", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/peppa/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/peppa-pig-kids-videos.html", 
 "datePosted":"2011-08-15 15:43:34.0", 
@@ -437,7 +422,7 @@
 
 "title":"Blue's Clues", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/blue/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/blues-clues-kids-videos.html", 
 "datePosted":"2009-09-21 13:52:37.0", 
@@ -451,9 +436,9 @@
 "urlAlias":"franklin-friends-kids-videos",	
 "featured":"",	
 
-"title":"Franklin &amp; Friends", 
+"title":"Franklin & Friends", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/franklin-friends/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/franklin-friends-kids-videos.html", 
 "datePosted":"2012-01-27 11:01:08.0", 
@@ -469,7 +454,7 @@
 
 "title":"Wonder Pets!", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/wond/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/the-wonder-pets-kids-videos.html", 
 "datePosted":"2009-09-21 16:31:21.0", 
@@ -485,7 +470,7 @@
 
 "title":"Miss Spider", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/miss/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/miss-spider-kids-videos.html", 
 "datePosted":"2009-09-21 13:53:23.0", 
@@ -501,7 +486,7 @@
 
 "title":"Jack's Big Music Show", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/jack/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/jacks-big-music-show-kids-videos.html", 
 "datePosted":"2009-09-21 16:52:35.0", 
@@ -517,9 +502,9 @@
 
 "title":"Olivia", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/oliv/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
-"link":"/kids-videos/olivia-kids-videos.html", 
+"link":"https://avarose57.github.io/kids-videos/olivia-kids-videos.html", 
 "datePosted":"2009-09-21 17:55:54.0", 
 "numViews":"0"
 
@@ -533,7 +518,7 @@
 
 "title":"Oobi", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/oobi/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/oobi-kids-videos.html", 
 "datePosted":"2009-09-21 16:41:56.0", 
@@ -549,7 +534,7 @@
 
 "title":"Upside Down Show", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/upsi/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/upside-down-show-kids-videos.html", 
 "datePosted":"2009-09-21 16:57:09.0", 
@@ -565,7 +550,7 @@
 
 "title":"Little Bear", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/bear/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/little-bear-kids-videos.html", 
 "datePosted":"2009-09-21 16:36:38.0", 
@@ -597,10 +582,26 @@
 
 "title":"Word Play", 
 "thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/promo/promo/wordplay/kids-promo.jpg",
-"promoImage":"https://avarose57.github.io/dynaboss",
+"promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/wordplay-kids-videos.html", 
 "datePosted":"2012-03-19 12:19:35.0", 
+"numViews":"0"
+
+}
+
+,
+
+{
+"urlAlias":"count-it-up-kids-videos",	
+"featured":"",	
+
+"title":"Count It Up", 
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/promo/promo/count-it-up/kids-promo.jpg",
+"promoImage":"/dynaboss",
+
+"link":"https://avarose57.github.io/kids-videos/count-it-up-kids-videos.html", 
+"datePosted":"2013-06-24 12:00:39.0", 
 "numViews":"0"
 
 }
@@ -610,4 +611,3 @@
 ]
 }
 }
-
