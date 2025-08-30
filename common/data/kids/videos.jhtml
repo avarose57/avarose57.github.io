@@ -257,22 +257,6 @@
 ,
 
 {
-"urlAlias":"wow-wow-wubbzy-kids-videos",	
-"featured":"",	
-
-"title":"Wow! Wow! Wubbzy!", 
-"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/wubb/kids-promo.jpg",
-"promoImage":"/dynaboss",
-
-"link":"https://avarose57.github.io/kids-videos/wow-wow-wubbzy-kids-videos.html", 
-"datePosted":"2009-09-21 16:35:00.0", 
-"numViews":"0"
-
-}
-
-,
-
-{
 "urlAlias":"go-diego-go-kids-videos",	
 "featured":"",	
 
@@ -281,6 +265,22 @@
 "promoImage":"/dynaboss",
 
 "link":"https://avarose57.github.io/kids-videos/go-diego-go-kids-videos.html", 
+"datePosted":"2009-09-21 16:35:00.0", 
+"numViews":"0"
+
+}
+
+,
+
+{
+"urlAlias":"wow-wow-wubbzy-kids-videos",	
+"featured":"",	
+
+"title":"Wow! Wow! Wubbzy!", 
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/playlist/wubb/kids-promo.jpg",
+"promoImage":"/dynaboss",
+
+"link":"https://avarose57.github.io/kids-videos/wow-wow-wubbzy-kids-videos.html", 
 "datePosted":"2009-09-21 13:11:54.0", 
 "numViews":"0"
 
