@@ -1,52 +1,52 @@
 {
 "config":{
 "music":{
-"path":"/nickjr20122015/dynaboss",
+"path":"https://avarose57.github.io/dynaboss",
 "volume":"0.3",
 "fadeAfter":"30"
 },
 "animation":{
-"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/general-loader.swf"},
+"loader":{"path":"https://avarose57.github.io/dynaboss/flash/kids/loaders/general-loader.swf"},
 "urlAlias":"kids-lalaloopsy",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/main-content/lalaloopsy-show-landing.swf",
+"path":"https://avarose57.github.io/dynaboss/flash/kids/main-content/lalaloopsy-show-landing.swf",
 "classId":"LandingPageAnimation"
 },
 "images":[
 {
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/images/showPromoBg.swf",
+"path":"https://avarose57.github.io/dynaboss/flash/kids/images/showPromoBg.swf",
 "position":{"x":"562","y":"0"}
 }
 ],
 "buttons":[
 {
 "localConnectionId":"ShowLogo",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/showlogos/Lalaloopsy.swf"
+"path":"https://avarose57.github.io/dynaboss/flash/kids/showlogos/Lalaloopsy.swf"
 }
 
 ],
-"promoSounds":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/global-promo-sounds.swf",
+"promoSounds":"https://avarose57.github.io/dynaboss/flash/kids/promos/global-promo-sounds.swf",
 "promos":[
 
 {
-"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"loader":{"path":"https://avarose57.github.io/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
 "classId":"SinglePromo",
 "localConnectionId":"GamePromo",
 "urlAlias":"kids-lalaloopsy",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/small/smallGamePromo.swf",
+"path":"https://avarose57.github.io/dynaboss/flash/kids/promos/small/smallGamePromo.swf",
 
 "position":{"x":"564","y":"68"},
 
-"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/lalaloopsy/",
+"allLink":"https://avarose57.github.io/kids-games/lalaloopsy/",
 "items":[
 
 {
 "urlAlias":"lalaloopsy-friendship-parade",	
 "featured":"",	
 "title":"Lalaloopsy Friendship Parade", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-kids-game-promo-new.jpg",
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-games/lalaloopsy-friendship-parade.html", 
-"datePosted":"Fri Jul 12 00:00:00 EDT 2002", 
+"thumbnail":"https://avarose57.github.io/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-thumb.jpg",
+"promoImage":"https://avarose57.github.io/game/assets/lala_friendship_parade/GamesFinder/lala_friendship_parade-kids-game-promo-new.jpg",
+"link":"https://avarose57.github.io/kids-games/lalaloopsy-friendship-parade.html", 
+"datePosted":"Sun Apr 13 00:00:00 EDT 2014", 
 "numViews":"34634"
 }
 
@@ -56,15 +56,15 @@
 ,
 
 {
-"loader":{"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
+"loader":{"path":"https://avarose57.github.io/dynaboss/flash/kids/loaders/asset-loader.swf","position":{"x":"75","y":"35"}},
 "classId":"SinglePromo",
 "localConnectionId":"VideoPromo",
 "urlAlias":"kids-lalaloopsy",
-"path":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/flash/kids/promos/small/smallVideoPromo.swf",
+"path":"https://avarose57.github.io/dynaboss/flash/kids/promos/small/smallVideoPromo.swf",
 
 "position":{"x":"754","y":"68"},
 
-"allLink":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/lalaloopsy-kids-videos.html",
+"allLink":"https://avarose57.github.io/kids-videos/lalaloopsy-kids-videos.html",
 "items":[
 
 {
@@ -72,11 +72,11 @@
 "featured":"",	
 
 "title":"A Tree Grows in Lalaloopsy Land", 
-"thumbnail":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss/assets/videoplayer/kids/videos/lala/111-tree/111-tree-thumb.jpg",
-"promoImage":"https://thetoonsofjosh.github.io/nickjr2012-2015/dynaboss",
+"thumbnail":"https://avarose57.github.io/dynaboss/assets/videoplayer/kids/videos/lala/111-tree/111-tree-thumb.jpg",
+"promoImage":"https://avarose57.github.io/dynaboss",
 
-"link":"https://thetoonsofjosh.github.io/nickjr2012-2015/kids-videos/lalaloopsy-kids-videos.html", 
-"datePosted":"2009-09-21 16:55:05.0", 
+"link":"https://avarose57.github.io/kids-videos/lalaloopsy-kids-videos.html", 
+"datePosted":"2013-05-23 16:55:05.0", 
 "numViews":"0"
 
 }
